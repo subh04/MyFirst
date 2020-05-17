@@ -1,2 +1,2 @@
 # MyFirst
-Hello this is muy first git experience
+Hello this is my first git experience
